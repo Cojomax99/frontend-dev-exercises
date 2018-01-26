@@ -1,0 +1,92 @@
+age,education_level,race,sex,over_50k,over_50k_text,count
+39,Bachelors,White,Male,0,False,1
+50,Bachelors,White,Male,0,False,1
+38,High school,White,Male,0,False,1
+53,Did not complete high school,Black,Male,0,False,1
+28,Bachelors,Black,Female,0,False,1
+37,Masters,White,Female,0,False,1
+49,Did not complete high school,Black,Female,0,False,1
+52,High school,White,Male,1,True,1
+31,Masters,White,Female,1,True,1
+42,Bachelors,White,Male,1,True,1
+37,Some college,Black,Male,1,True,1
+30,Bachelors,Asian-Pac-Islander,Male,1,True,1
+23,Bachelors,White,Female,0,False,1
+32,Associates,Black,Male,0,False,1
+40,Associates,Asian-Pac-Islander,Male,1,True,1
+34,Did not complete high school,Amer-Indian-Eskimo,Male,0,False,1
+25,High school,White,Male,0,False,1
+32,High school,White,Male,0,False,1
+38,Did not complete high school,White,Male,0,False,1
+43,Masters,White,Female,1,True,1
+40,Doctorate,White,Male,1,True,1
+54,High school,Black,Female,0,False,1
+35,Did not complete high school,Black,Male,0,False,1
+43,Did not complete high school,White,Male,0,False,1
+59,High school,White,Female,0,False,1
+56,Bachelors,White,Male,1,True,1
+19,High school,White,Male,0,False,1
+54,Some college,Asian-Pac-Islander,Male,1,True,1
+39,High school,White,Male,0,False,1
+49,High school,White,Male,0,False,1
+23,Associates,White,Male,0,False,1
+20,Some college,Black,Male,0,False,1
+45,Bachelors,White,Male,0,False,1
+30,Some college,White,Male,0,False,1
+22,Some college,Black,Male,0,False,1
+48,Did not complete high school,White,Male,0,False,1
+21,Some college,White,Male,0,False,1
+19,High school,White,Female,0,False,1
+31,Some college,White,Male,1,True,1
+48,Associates,White,Male,0,False,1
+31,Did not complete high school,White,Male,0,False,1
+53,Bachelors,White,Male,0,False,1
+24,Bachelors,White,Male,0,False,1
+49,High school,White,Female,0,False,1
+25,High school,White,Male,0,False,1
+57,Bachelors,Black,Male,1,True,1
+53,High school,White,Male,0,False,1
+44,Masters,White,Female,0,False,1
+41,Associates,White,Male,0,False,1
+29,Associates,White,Male,0,False,1
+25,Some college,Other,Female,0,False,1
+18,High school,White,Female,0,False,1
+47,Professional school,White,Female,1,True,1
+50,Bachelors,White,Male,1,True,1
+47,High school,White,Male,0,False,1
+43,Some college,White,Male,1,True,1
+46,Did not complete high school,White,Male,0,False,1
+35,Associates,White,Male,0,False,1
+41,High school,White,Male,0,False,1
+30,High school,White,Male,0,False,1
+30,Bachelors,White,Male,0,False,1
+32,Did not complete high school,White,Male,0,False,1
+48,High school,White,Male,0,False,1
+42,Doctorate,White,Male,1,True,1
+29,Some college,White,Male,0,False,1
+36,High school,White,Male,0,False,1
+28,Some college,White,Female,0,False,1
+53,High school,White,Female,1,True,1
+49,Some college,White,Male,1,True,1
+25,Some college,White,Male,0,False,1
+19,Some college,White,Male,0,False,1
+31,Bachelors,Black,Female,0,False,1
+29,Bachelors,White,Male,1,True,1
+23,Some college,White,Male,0,False,1
+79,Some college,White,Male,0,False,1
+27,High school,White,Male,0,False,1
+40,Associates,White,Male,0,False,1
+67,Did not complete high school,White,Male,0,False,1
+18,Did not complete high school,White,Female,0,False,1
+31,Did not complete high school,White,Male,0,False,1
+18,High school,White,Male,0,False,1
+52,Bachelors,White,Male,0,False,1
+46,High school,White,Female,0,False,1
+59,High school,White,Male,0,False,1
+44,High school,White,Female,1,True,1
+53,High school,White,Female,0,False,1
+49,High school,White,Male,1,True,1
+33,Masters,White,Male,0,False,1
+30,Did not complete high school,White,Male,0,False,1
+43,Doctorate,White,Female,1,True,1
+57,Associates,White,Male,0,False,1

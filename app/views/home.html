@@ -1,0 +1,17 @@
+<div ng-if="loading">
+    <h1 style="margin-top: 200px; text-align: center;">Loading graph data</h1>
+    <div class="container">
+        <div class="dot"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+    </div>
+</div>
+
+<div ng-if="!loading">
+    <br />
+    <nvd3 options="multi_options" data="multi_data" class="with-3d-shadow with-transitions"></nvd3>
+    <br />
+    <nvd3 options="edu_options" data="edu_data" class="with-3d-shadow with-transitions"></nvd3>
+    <br />
+    <nvd3 options="race_options" data="race_data" class="with-3d-shadow with-transitions"></nvd3>
+</div>

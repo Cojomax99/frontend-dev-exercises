@@ -1,0 +1,18 @@
+{
+  "name": "rti-exercise",
+  "description": "RTI CDS Frontend Developer Exercise",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Cojomax99/frontend-dev-exercises",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.6.7",
+    "angular-route": "~1.6.7",
+    "angular-loader": "~1.6.7",
+    "angular-mocks": "~1.6.7",
+    "html5-boilerplate": "^5.3.0"
+  },
+  "resolutions": {
+    "angular": "~1.6.7"
+  }
+}
